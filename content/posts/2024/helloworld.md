@@ -1,6 +1,6 @@
 ---
 title: "This is a test title"
-summary: "just test!"
+summary: "Just for fun!"
 date: 2024-11-11
 tags:
     - C

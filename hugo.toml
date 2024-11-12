@@ -1,7 +1,7 @@
 baseURL = 'https://vrsashly.me/'
 title = 'vrsashly - blog'
 theme = 'cybernacly'
-email = 'vrsashly@gmail.com'
+email = 'contact@vrsashly.me'
 canonifyURLs = true
 enableRobotsTXT = false
 
@@ -39,9 +39,9 @@ description = "A blog all around tech, programming and whatever im currently int
 
     [params.author]
     name = "vrsashly"
-    email = "vrsashly@gmail.com"
+    email = "contact@vrsashly.me"
 
     [params.social]
     github = "https://github.com/vrsashly"
     rss = "https://vrsashly.me/index.xml"
-    email = "mailto:vrsashly@gmail.com"
+    email = "mailto:contact@vrsashly.me"
